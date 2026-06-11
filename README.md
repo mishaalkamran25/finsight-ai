@@ -1,4 +1,4 @@
-# FinSight AI | FP&A Intelligence Platform
+# FinSight AI - FP&A Intelligence Platform
 
 An AI-powered FP&A tool with two modules: a conversational copilot that answers finance questions grounded in your data, and an automated management pack generator that produces executive-ready PowerPoint reports.
 
