@@ -146,5 +146,5 @@ Numbers can include `$`, `,`, and spaces — they are cleaned automatically.
 
 ## Built By
 
-Graduate Student, Business Analytics & Information Management, Purdue University  
-Former Financial Analyst, Coca-Cola
+Mishaal Kamran Hussain, Business Analytics & Information Management, Purdue University  
+Financial & Business Analyst, x-Coca-Cola
