@@ -1,0 +1,49 @@
+Account,Category,Month,Actual,Budget,Prior_Period
+Net Revenue,Revenue,Jan,4820000,5000000,4500000
+Net Revenue,Revenue,Feb,5100000,5000000,4820000
+Net Revenue,Revenue,Mar,4650000,5200000,5100000
+Net Revenue,Revenue,Apr,5300000,5200000,4650000
+Net Revenue,Revenue,May,5450000,5400000,5300000
+Net Revenue,Revenue,Jun,5200000,5500000,5450000
+Cost of Goods Sold,COGS,Jan,2650000,2600000,2430000
+Cost of Goods Sold,COGS,Feb,2750000,2600000,2650000
+Cost of Goods Sold,COGS,Mar,2700000,2700000,2750000
+Cost of Goods Sold,COGS,Apr,2820000,2700000,2700000
+Cost of Goods Sold,COGS,May,2900000,2800000,2820000
+Cost of Goods Sold,COGS,Jun,2780000,2850000,2900000
+Gross Profit,Gross Profit,Jan,2170000,2400000,2070000
+Gross Profit,Gross Profit,Feb,2350000,2400000,2170000
+Gross Profit,Gross Profit,Mar,1950000,2500000,2350000
+Gross Profit,Gross Profit,Apr,2480000,2500000,1950000
+Gross Profit,Gross Profit,May,2550000,2600000,2480000
+Gross Profit,Gross Profit,Jun,2420000,2650000,2550000
+Sales & Marketing,OPEX,Jan,620000,580000,590000
+Sales & Marketing,OPEX,Feb,680000,580000,620000
+Sales & Marketing,OPEX,Mar,710000,600000,680000
+Sales & Marketing,OPEX,Apr,640000,600000,710000
+Sales & Marketing,OPEX,May,660000,620000,640000
+Sales & Marketing,OPEX,Jun,700000,630000,660000
+General & Administrative,OPEX,Jan,310000,300000,295000
+General & Administrative,OPEX,Feb,320000,300000,310000
+General & Administrative,OPEX,Mar,295000,310000,320000
+General & Administrative,OPEX,Apr,330000,310000,295000
+General & Administrative,OPEX,May,315000,320000,330000
+General & Administrative,OPEX,Jun,325000,320000,315000
+Research & Development,OPEX,Jan,180000,175000,170000
+Research & Development,OPEX,Feb,190000,175000,180000
+Research & Development,OPEX,Mar,185000,180000,190000
+Research & Development,OPEX,Apr,195000,180000,185000
+Research & Development,OPEX,May,200000,185000,195000
+Research & Development,OPEX,Jun,210000,190000,200000
+Depreciation & Amortization,OPEX,Jan,95000,95000,92000
+Depreciation & Amortization,OPEX,Feb,95000,95000,95000
+Depreciation & Amortization,OPEX,Mar,97000,95000,95000
+Depreciation & Amortization,OPEX,Apr,97000,97000,97000
+Depreciation & Amortization,OPEX,May,97000,97000,97000
+Depreciation & Amortization,OPEX,Jun,98000,97000,97000
+EBITDA,EBITDA,Jan,965000,1250000,923000
+EBITDA,EBITDA,Feb,1065000,1250000,965000
+EBITDA,EBITDA Mar,Mar,663000,1315000,1065000
+EBITDA,EBITDA,Apr,1218000,1313000,663000
+EBITDA,EBITDA,May,1278000,1378000,1218000
+EBITDA,EBITDA,Jun,1087000,1413000,1278000
